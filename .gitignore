@@ -1,4 +1,5 @@
 node_modules/
 dist/
 .env
-backendcreateAdmin.js
+backend/createAdmin.js
+createAdmin.js
